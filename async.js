@@ -24,3 +24,23 @@ new Promise(function (resolve) {
 });
 
 console.log("script end");
+
+
+
+
+
+
+
+
+
+
+
+// script start
+// promise1
+// script end
+// async1 start
+// async2
+// async1 end
+// promise2
+// async2
+// setTimeout

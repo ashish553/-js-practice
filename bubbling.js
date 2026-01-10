@@ -8,4 +8,4 @@ heading.addEventListener('click', (e) => {
 
 container.addEventListener('click', () => {
     console.log('Container called');
-}, true) //capturing
+}) //capturing
